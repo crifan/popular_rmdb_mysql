@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v1.0",
+  "lastUpdate": "20210915",
+  "gitRepoName": "popular_rmdb_mysql",
+  "bookName": "主流关系数据库：MySQL",
+  "bookDescription": "介绍目前最主流的关系型数据库MySQL。先对MySQL进行概览；再介绍如何安装MySQL；再介绍MySQL的使用方面的内容；其中包括mysql的命令行；创建MySQL的数据库和设计表时的相关内容，比如字段属性、借助于在线网站设计表等；以及MySQL的数据库的备份和恢复，包括专门的工具mysqldump等；以及数据库管理工具Sequel Pro、MySQL Workbench等；以及log日志相关；总结了MySQL的使用心得；包括阿里云RDS；整理Python中如何使用mysql，比如用库pymsql；最后给出参考文档。"
+}
